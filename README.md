@@ -7,7 +7,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io
 git clone https://github.com/bharatpatil21/chat-board-socket.io.git
 cd chat-board-socket.io
 npm install
-npm run dev
+node server.js
 
 Go to localhost:3000
 ```
